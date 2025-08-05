@@ -3,7 +3,7 @@
 This project focuses on detecting fraudulent transactions using the **PaySim synthetic dataset**, which simulates mobile money transactions. The goal is to analyze the data, explore patterns, and build machine learning models to accurately identify fraudulent activities.
 
 ---
-
+![image alt](https://github.com/Lalit-sharma123/PaySim_fraud_detectiion/blob/main/Screenshot%202025-08-05%20100333.png)
 ## 📁 Project Structure
 
 - **`final.csv`**  
